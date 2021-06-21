@@ -12,7 +12,7 @@ import org.junit.Test;
 public class AppTest
 {
     /**
-     *ss
+     *sss
      * Rigorous Test :-)
      */
     @Test

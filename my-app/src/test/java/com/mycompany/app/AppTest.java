@@ -26,7 +26,7 @@ public class AppTest
     }
 
     @Test
-    public void shouldAnswerWithFalse()
+    public void shouldAnswerWithTrue()
     {
         int a = 1;
         int b = 2;

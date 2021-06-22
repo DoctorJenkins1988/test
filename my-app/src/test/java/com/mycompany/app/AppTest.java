@@ -15,7 +15,7 @@ public class AppTest
 {
     /**
      *
-     * Rigorous Test :-)
+     * Rigorous Test :-))
      */
 
     @Test

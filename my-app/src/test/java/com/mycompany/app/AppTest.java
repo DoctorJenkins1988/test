@@ -20,6 +20,8 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        int a = 1;
+        int b = 2;
+        assertTrue(a + b == 3);
     }
 }

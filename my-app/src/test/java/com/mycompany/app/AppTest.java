@@ -8,14 +8,14 @@ import org.junit.Test;
 /**
  *
  * Unit test for simple App.
- *s 
+ *s
  */
 
 public class AppTest
 {
     /**
      *ssss
-     * Rigorous Test :-))
+     * Rigorous Test :-)
      */
     @Test
     public void shouldAnswerWithTrue()

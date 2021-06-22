@@ -22,11 +22,11 @@ public class AppTest
     {
         int a = 1;
         int b = 2;
-        assertTrue(a + b == 3);
+        assertTrue(false);
     }
 
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue2()
     {
         int a = 1;
         int b = 2;

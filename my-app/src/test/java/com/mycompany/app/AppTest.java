@@ -22,6 +22,14 @@ public class AppTest
     {
         int a = 1;
         int b = 2;
+        assertTrue(a + b == 3);
+    }
+
+    @Test
+    public void shouldAnswerWithFalse()
+    {
+        int a = 1;
+        int b = 2;
         assertTrue(false);
     }
 }

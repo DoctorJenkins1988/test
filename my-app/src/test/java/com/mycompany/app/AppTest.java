@@ -15,7 +15,7 @@ public class AppTest
 {
     /**
      *sss
-     * Rigorous Test :-)))
+     * Rigorous Test :-)
      */
     @Test
     public void shouldAnswerWithTrue()
